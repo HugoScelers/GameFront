@@ -1,0 +1,4 @@
+L'ordinateur choisit un nombre au hasard entre x et x
+L'utilisateur entre un numéro
+L'utilisateur a 3 essais
+Si le numéro de l'utilisateur correspond
